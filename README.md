@@ -60,5 +60,9 @@ The dashboard helps:
 - identify high-performing speaker profiles
 - improve audience engagement strategy
 
+- <img width="1854" height="917" alt="Снимок экрана 2026-04-10 213248" src="https://github.com/user-attachments/assets/654a0526-95af-407c-918b-e35647154f8a" />
+<img width="1840" height="849" alt="Снимок экрана 2026-04-10 213223" src="https://github.com/user-attachments/assets/84778633-f7dc-4f18-bcec-d4a615b2ba7a" />
+<img width="1861" height="754" alt="Снимок экрана 2026-04-10 213301" src="https://github.com/user-attachments/assets/ce48b135-6f37-4416-8fc2-2b0e429111d0" />
+
 ## Author
 Alexandra Lunina
